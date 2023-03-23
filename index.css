@@ -13,7 +13,7 @@ body {
 }
 
 .sidebar {
-    background-image: linear-gradient(to right top, #fdf451, #f1f470, #e7f28a, #e0f0a2, #dcecb8);
+    background-image: linear-gradient(to right top, #f7ed38, #f7ee56, #f7f06e, #f7f184, #f7f299);
     /* background: rgb(5, 68, 104); */
     position: fixed;
     top: 0;
